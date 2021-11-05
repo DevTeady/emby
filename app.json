@@ -1,0 +1,13 @@
+{
+    "name": "Emby T",
+    "description": "Bypass your happiness",
+    "author": "DevTeady",
+    "keywords": [
+        "premere",
+        "python",
+        "fastapi",
+        "emby",
+        "Theater"
+    ],
+    "repository": "https://github.com/DevTeady/emby"
+}
